@@ -1,4 +1,7 @@
 EXTM3U
+# ==========================================
+#      🎬 FILMES 🎬
+# ==========================================
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/original/hLiI13YstciHqiuHCkD786wpIYn.jpg", A Origem dos Guardiões (2002)
 https://23rzv4udpdbv8t6.cdn-novflix.com/storageflix/F/a-origem-dos-guardioes.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w342/e7ofkr5drqphDavMOC1RuOgKqIJ.jpg", Elize: Sombras de uma Mulher (2026)
@@ -101,8 +104,6 @@ https://anonmp4.help/embed/yg7RjpxAG7Wjvzj
 https://anonmp4.help/embed/F3Crs5OHfSvNyeg
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/kwuXe0945dfCFQv5VX9pLvmb3Jl.jpg", Eu Só Posso Imaginar 2 (2026)
 https://anonmp4.help/embed/onBO7h9kJrHlU1F
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/d7BsXPE4vv6UFaD52J4rlQq5pWU.jpg", Eu sou Frankelda (2025)
-https://anonmp4.help/embed/PtEerEVYvBgC6XT
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/AfvuM7n41XbX6pkJzeT3j7RH8ui.jpg", Firewall: Segurança em Risco (2006)
 https://anonmp4.help/embed/ELhPR1qJUBTDfzi
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/unLcpIVVNoiE9kLXhmnoCopRpIN.jpg", Homem Aranha: O Desafio do Dragão (1981)
@@ -111,10 +112,6 @@ https://anonmp4.help/embed/DVGyW5u1y1xH7NV
 https://anonmp4.help/embed/7GjwKaRnrnoTQAu
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xwDyt9MFa5vn38HCCjL0v6y17yn.jpg", Insano (2024)
 https://anonmp4.help/embed/sMam5s5Ns7Xddie
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5ft87E9fosb9O9zLtdR9Cu5tiCa.jpg", Instinto Materno (2024)
-https://anonmp4.help/embed/3izv6svFH6DXs4u
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2eqYzlkd9pH2ygGB7cD8fWANZvS.jpg", Instinto Materno (2026)
-https://anonmp4.help/embed/cUiu2S4kgDv49yT
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/uK4iSJeKvUu5v2PKe5SVtIY2CbA.jpg", Louca Obsessão (1990)
 https://anonmp4.help/embed/WOrPYxFoM8hvfMw
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zOd4ITtAdwe0PkqMOOFiGho1IO2.jpg", Mamonas: Eu Te Ai Lóve Iú (2026)
@@ -147,14 +144,10 @@ https://ia801901.us.archive.org/2/items/paixaoflix-o-hobbit-a-batalha-dos-cinco-
 https://ia800508.us.archive.org/0/items/paixaoflix-tom-e-jerry-a-fantastica-fabrica-de-chocolates/tom-e-jerry-a-fantastica-fabrica-de-chocolates.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/9kqN43yygrJM2ckpnYBdtJRmn1b.jpg", LEGO Star Wars: Especial de Festas (2020)
 https://ia802800.us.archive.org/10/items/paixaoflix-lego-star-wars-especial-de-festas/lego-star-wars-especial-de-festas.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/original/49aJiVFvPGB4rD2s0hNhqdXUfT7.jpg", Lego Ninjago: O Filme (2017)
-https://ia800109.us.archive.org/28/items/paixaoflix-lego-ninjago-o-filme/lego-ninjago-o-filme.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/qxg4t41bE9PmjLUXkkLb7irD7Wu.jpg", Pelé (2021)
 https://ia800602.us.archive.org/11/items/paixaoflix-pele/pele.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/kN86jEhf5xeHTPwlVeZ1ZAW861r.jpg", Paixão de Escritório (2025)
 https://ia801800.us.archive.org/6/items/paixaoflix-paixao-de-escritorio/paixao-de-escritorio.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/fhoaVpxMvm7jLIFc2uICfeV4SeC.jpg", Os Jetsons: O Filme (1990)
-https://ia803206.us.archive.org/12/items/paixaoflix-os-jetsons-o-filme/os-jetsons-o-filme.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8fkDLt6Fbr2yyBqt3MEwiumnsar.jpg", Os Bad Boys (1995)
 https://ia600802.us.archive.org/2/items/paixaoflix-os-bad-boys/os-bad-boys.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/oyjCOxofg1sTxQLi45ZC3LT83jP.jpg", O Caso Frieda (2025)
@@ -165,22 +158,6 @@ https://ia903108.us.archive.org/26/items/paixaoflix-o-favor/o-favor.mp4
 https://ia803208.us.archive.org/0/items/paixaoflix-morbius/morbius.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3iRYwrs9JSKzGDXgyoHsFGYwMrz.jpg", México 1986 (2024)
 https://ia601906.us.archive.org/28/items/paixaoflix-mexico-1986/mexico-1986.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCXuHmAyUmtoPYcG-Ya74BCVeY0t3Jvl7RzrBQ1xW1Q&s=10", LEGO DC Comics Super-Heróis: Liga da Justiça vs. Liga Bizarro (2015)
-https://ia601501.us.archive.org/8/items/paixaoflix-lego-dc-comics-super-herois-liga-da-justica-vs-liga-bizarro/lego-dc-comics-super-herois-liga-da-justica-vs-liga-bizarro.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi6o9nqq98Z7M5VKDSlbl3AssqoOZCpfHyb0JDOmgLEg&s=10", LEGO Super-Heróis DC: O Flash (2023)
-https://ia800602.us.archive.org/30/items/paixaoflix-lego-super-herois-dc-o-flash/lego-super-herois-dc-o-flash.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7ZW5kprehAqv2upVHekgeMunvGtXp7HMTD8FIUGI-w&s=10", LEGO Super-Heróis DC: Liga da Justiça - Revolta em Gotham (2016)
-https://ia601402.us.archive.org/20/items/paixaoflix-lego-super-heroes-dc-liga-da-justica-revolta-em-gotham/lego-super-heroes-dc-liga-da-justica-revolta-em-gotham.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBu6448WcI7051sLyahJDRCF6SVsJ75hN2amHQ0MbxtA&s=10", LEGO Jurassic World: A Fuga do Indominus Rex (2016)
-https://ia600402.us.archive.org/33/items/paixaoflix-lego-jurassic-world-a-fuga-do-indominus-rex/lego-jurassic-world-a-fuga-do-indominus-rex.mp4?cnt=0
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoMvmQW6c_3j4MqsxlVZQXxgQ0NUiyz3JAJ6hOEJA0A&s=10", LEGO DC Shazam: Magia e Monstros (2020)
-https://ia800102.us.archive.org/16/items/paixaoflix-lego-dc-shazam-magia-e-monstros/lego-dc-shazam-magia-e-monstros.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcn0J0bGMlVbKS8aF1hYJ1jU5OwkNq9nYuzTkr4EuwAQ&s=10", LEGO Marvel Vingadores: Código Vermelho (2023)
-https://ia800602.us.archive.org/17/items/paixaoflix-cinema-1154598/LEGO_Marvel_Vingadores_Codigo__1154598.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaoEWbejRjI6k6YeyspLSGg5DAWOT7qYxhFWXPH5ZXfQ&s=10", LEGO Disney Princesas: Missão Castelo (2023)
-https://ia803202.us.archive.org/27/items/paixaoflix-cinema-1153222/LEGO_Disney_Princesa_Aventura__1153222.mp4?cnt=0
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5iIvkKqJqABeRy06B7vCnRMI9DiSvwuxZ5Qn025YMg&s=10", Iron Maiden: Ambição Ardente (2025)
-https://ia600503.us.archive.org/34/items/paixaoflix-iron-maiden-ambicao-ardente/iron-maiden-ambicao-ardente.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/AtkduDASfrH6uCqFbxtqAAkjMd7.jpg", Inventário de Imagens Perdidas (2025)
 https://ia800800.us.archive.org/13/items/paixaoflix-inventario-de-imagens-perdidas/inventario-de-imagens-perdidas.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MURdcADdghXb6sNIsYyeWum_sWuVEH4USSEs8-_BJw&s=10", Hormônios: A Flor da Pele (2025)
@@ -189,10 +166,6 @@ https://ia601402.us.archive.org/0/items/paixaoflix-hormonios-a-flor-da-pele/horm
 https://ia800707.us.archive.org/11/items/paixaoflix-friends-a-reuniao/friends-a-reuniao.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5CILaNxWsVIjuXSyKoSv916ziHvmjpeAlR4RUZFc8&s", Fuja do Século 21 (2025)
 https://ia801806.us.archive.org/19/items/paixaoflix-fuja-do-seculo-21/fuja-do-seculo-21.mp4?cnt=0
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/g4LW0JOeHyOFRsN6PAyWrH4qbG.jpg", Emoji: O Filme (2017)
-https://ia802801.us.archive.org/11/items/paixaoflix-emoji-o-filme/emoji-o-filme.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/original/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg", Homem-Aranha: Através do Aranhaverso (2023)
-https://ia600903.us.archive.org/10/items/paixaoflix-homemaranha-atraves-do-aranhaverso/homemaranha-atraves-do-aranhaverso.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sbOXdwwYd586z4DQ2awvptnIJAfvvcCHNazeH6wpBzDWykDXrw8tofeodx15CASt73s3m50a1Ujb-ly_Bf0ihU4GK76p5atIMWgmDZBN&s=10", Godzilla vs. Biollante (1989)
 https://ia600901.us.archive.org/25/items/paixaoflix-godzilla-vs-biollante/godzilla-vs-biollante.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg", Desejo em Manhattan (2026)
@@ -239,14 +212,8 @@ https://ia800803.us.archive.org/28/items/paixaoflix-cinema-957445/Clube_dos_Anjo
 https://ia800103.us.archive.org/6/items/paixaoflix-cinema-1274706/A_Desconhecida_1274706.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/90hbSeBsev4hezgzkyW8tkio2dp.jpg", A Pele Que Habito (2011)
 https://ia903205.us.archive.org/28/items/paixaoflix-cinema-63311/A_Pele_Que_Habito_63311.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/jUZAAKHfHwZj8bEvghaY9MrGCRG.jpg", Lego Batman: O Filme (2017)
-https://ia803101.us.archive.org/31/items/paixaoflix-cinema-324849/Lego_Batman_O_Filme_2017.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zViPy2FpbtCU4kkedW3uK45aKUg.jpg", A Fantástica Fábrica de Chocolates (2005)
 https://ia601507.us.archive.org/23/items/paixaoflix-cinema-252/A_Fantastica_Fabrica_de_Chocol_252.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQf5NhNCjuzoWH5yZYXAWkpT2AGdNpnYqLCVbUnbojKQ&s=10", As Aventuras do Avião Vermelho (2014)
-https://ia802804.us.archive.org/27/items/paixaoflix-cinema-279387/As_Aventuras_do_Aviao_Vermelho_279387.mp4?cnt=0
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/original/nS6Va6wpH7dvRTBpUhZh6zNrXil.jpg", Frankie e os Monstros (2025)
-https://ia803209.us.archive.org/10/items/paixaoflix-cinema-1214130/Frankie_e_os_Monstros_2025.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmeWx716F-P1GuL7_Z1wjvjB9URI5KPYSiEC-QAgutiQ&s=10", Monster Hunter (2020)
 https://ia600409.us.archive.org/11/items/paixaoflix-cinema-458576/Monster_Hunter_2020.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xME7tYJQBC9d-0Y7Igic1_0ixfCZO79UpXcio5CDPw&s=10", Mothra: A Deusa Selvagem (1961)
@@ -283,8 +250,6 @@ https://ia903200.us.archive.org/30/items/paixaoflix-cinema-11679/xXx_2_Estado_de
 https://ia801006.us.archive.org/4/items/paixaoflix-cinema-23303/Um_Sem_Ju%C3%ADzo_Outro_Sem_Raz%C3%A3o_1991.ia.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj5EPWErx7JQp3v76fCIqJps8jjFTsjOVyfEs5w26pVA&s=10", Dinheiro Fácil (2006)
 https://ia800605.us.archive.org/28/items/paixaoflix-cinema-9925/Dinheiro_F%C3%A1cil_2006.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/qOXlD75Is9T11tdDxfzrsIFg10w.jpg", Aladdin e os 40 Ladrões (1996)
-https://ia800906.us.archive.org/25/items/paixaoflix-cinema-11238/Aladdin_e_os_40_Ladr%C3%B5es_1996.ia.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hxmqEhjMIC5OPc6uQVGHhArWNSV.jpg", Alcatraz: Fuga Impossível (1979)
 https://ia600508.us.archive.org/8/items/paixaoflix-cinema-10734/Alcatraz_Fuga_Imposs%C3%ADvel_1979.ia.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HlWrGRI4bvMaImr6ynNfso8sWX5mNaOR7kNQY2FPXw&s=10", Sexta-Feira 13 - Parte 8: Jason Ataca em Nova York (1989)
@@ -335,8 +300,6 @@ https://dn720409.ca.archive.org/0/items/anjos-da-lei-2012-21-jump-street/Anjos%2
 https://dn720402.ca.archive.org/0/items/anjos-da-noite-5-guerras-de-sangue-2016-underworld-blood-wars-dual-audio/Anjos%20Da%20Noite%205%20Guerras%20De%20Sangue%202016%20(Underworld%20Blood%20Wars)%20(Dual%20Audio).mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSfn3TRBsNwXJQrtID89LLixI7xz3cgwilaJm5E05uA&s=10", Anjos da Noite: O Despertar (2012)
 https://dn720409.ca.archive.org/0/items/anjos-da-lei-2012-21-jump-street/Anjos%20Da%20Lei%202012%20%2821%20Jump%20Street%29.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-A8WvMBB7MHOnow--jBxqoVnERQDDLOXuHmhKKOhddA&s=10", As Aventuras de Porco e Amendoim (2022)
-https://ia600909.us.archive.org/16/items/paixaoflix-cinema-958772/As_Aventuras_de_Porco_e_Amendoim_2022.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrh2Wr-KrYDZDd5LtGii2SpaNvE8ivWXnrp4Wwls1p-w&s=10", As Aventuras do Barão Munchausen (1988)
 https://dn711301.ca.archive.org/0/items/as.-aventuras.-do.-barao.-de.-munchausen.-1988.1080p.-dual/As.Aventuras.Do.Bar%C3%A3o.De.Munchausen.1988.1080p.Dual.mkv
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkyLlpXNSDn4JVLvE03WmgDSBHR0phCs3qUj0AoEg_w&s=10", As Leis Douradas (2003)
@@ -349,8 +312,6 @@ https://ia600102.us.archive.org/10/items/paixaoflix-cinema-1333100/Attack_on_Tit
 https://ia600803.us.archive.org/0/items/paixaoflix-cinema-728315/Making_of_Godzilla_vs_Mothra_2010.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSt6bkOk3_p_Ubep6cxyNsEnQmq0ZRQAFsZKwmMXnaSQ&s", Batalha dos Impérios (2015)
 https://ia600806.us.archive.org/16/items/youtube-yAPce-l3K9E/yAPce-l3K9E.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5J-nzRvDYhSohjdun6bsfFiyyi_7AP5CzMK8hZ-2Sg&s", Bob o Construtor (1998)
-https://dn711208.ca.archive.org/0/items/bob-o-construtor-trabalho-em-equipe-r4br-dvdrip/BOB%20TRABALHO%20EM%20EQUIPE/VIDEO_TS/VTS_01_1.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3XC0NQSQpsc8Bz0X3646ROIkRiz8QP3AhFUuzHe_0Fg&s=10", Bom Dia Vietnã (1987)
 https://dn721805.ca.archive.org/0/items/bom-dia-vietna-good-morning-vietnam-1987-1080p-blu-ray-dual-audio_202302/Bom%20Dia%2C%20Vietn%C3%A3%20%28Good%20Morning%2C%20Vietnam%2C%201987%29%201080p%20BluRay%20Dual%20%C3%81udio.mkv
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqwoQY9rxqqRKf-sjRnZLw0liydaMvFWZ4jo6pwjofg&s", Braddock: O Super Comando (1993)
@@ -359,12 +320,8 @@ https://ia801707.us.archive.org/5/items/braddock-o-super-comando-edicao-especial
 https://ia601707.us.archive.org/5/items/braddock-o-super-comando-edicao-especial/Braddock%202%20-%20O%20Inicio%20da%20Miss%C3%A3o%20%E2%80%93%20Edi%C3%A7%C3%A3o%20Especial.avi
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9BhLhYcr2vsFdC4CNi9tviRKmeFdnfK7SUMi8eF20eQ&s=10", Braddock 3: O Resgate (1997)
 https://ia601707.us.archive.org/5/items/braddock-o-super-comando-edicao-especial/Braddock%203%20-%20O%20Resgate%20%E2%80%93%20Edi%C3%A7%C3%A3o%20Especial.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/ftPFJBGbldoWiiPrmesW96zBzdH.jpg", Cara de Um, Focinho de Outro (2026)
-https://cdn99xn----booster.cineveo.lat/m/Cara%20de%20Um_%20Focinho%20de%20Outro%20_2026_%20_tmdb_1327819_b6274bb6.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEAzW1FuB5T24sJdFzRk3WYlweePiD2349IXcQE_ayg&s", Comando para Matar (1985)
 https://ia601702.us.archive.org/4/items/comando-para-matar-1985-dual-1080p-versao-do-diretor-rmz-leonardo-nunes/Comando%20para%20Matar%20-%201985%20-%20%201080p%20-%20Dublado.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQ8ejEwJgHmOhpVZ5EUVrff_yOU99T-B_Wndzzr0Iwg&s=10", Como Mágica (2007)
-https://ia801607.us.archive.org/2/items/paixaoflix-cinema-1007757/Como_M%C3%A1gica.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZF4D632MCl7Tqlt0f0oTPRGQzkQDiVX1knee4moYJCg&s=10", Conectado (2008)
 https://dn710908.ca.archive.org/0/items/youtube-cGJXsNoJ9bI/cGJXsNoJ9bI.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5YGxIzMxRdcTt4QtjlbV2wYRNlx.jpg", Coração Partido (2026)
@@ -375,14 +332,10 @@ https://ia601804.us.archive.org/14/items/paixaoflix-cinema-37137/Corra_que_a_Pol
 https://ia600409.us.archive.org/6/items/paixaoflix-cinema-1333099/Dalia_e_o_Livro_Vermelho_2024.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHLhBHDC5RjmI-0aIOVY2yfgaYxjiBFpv984Stvzciw&s", Dercy de Verdade (2015)
 https://ia801607.us.archive.org/3/items/dercydeverdade-dvd/DERCY_DE_VERDADE.mp4?cnt=0
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL21qW3mHXLUCKt_V3dLGYSE_w7IhbY01pUXIF0ZUr2g&s=10", Crianças Diante do Trono - A Arca de Noé (2005)
-https://ia801702.us.archive.org/30/items/cdt-aarcadenoe-dvd/A_ARENA_DE_NOE.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7VfjmAeqMrKraGJByctmrswhkwjScx8uNTVWSqrB5g&s=10", Divã (2010)
 https://ia801008.us.archive.org/14/items/dvd-diva-duplo/Div%C3%A3%20-%20D1.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7VfjmAeqMrKraGJByctmrswhkwjScx8uNTVWSqrB5g&s=10", Divã 2 (2010)
 https://ia801008.us.archive.org/14/items/dvd-diva-duplo/Div%C3%A3%20-%20D2.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8gDfItmKZMd7YL5JsXbiwJbFJvmnbbF1n_k8TFB17g&s=10", Divertida Mente (2015)
-https://dn710108.ca.archive.org/0/items/divertida-mente-2015-1080p-dublado/Divertida%20Mente%20(2015)%201080p%20Dublado.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEWTqzQ3hlryOt4JkEiFEkTT-0FFFzmZy5lauH9XBwQ&s=10", Esporte Sangrento (1993)
 https://dn711401.ca.archive.org/0/items/youtube-z1SqDGjnpXA/z1SqDGjnpXA.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKID-f0um7o67NFvAt0l1v3SrpYDraDQw7dc7IKArxg&s=10", Eu, Christiane F. (1981)
@@ -393,10 +346,6 @@ https://wscuh2cjilknbj3.cdn-novflix.com/storagePSN/FILMES/FAMILIAPERONOMUCHO.mp4
 https://ia600101.us.archive.org/22/items/evento-formatura-2016/Evento%20Formatura%202016.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoKwneeRdeMFoyYUo87HsbxX_hw3Yve6BqYICyx7aTg&s=10", Fuga de Sobibor (1988)
 https://dn710804.ca.archive.org/0/items/youtube-U8FYBSkyDT8/Segunda_Guerra_Mundial_-_Fuga_de_Sobibor_-_Dublado-U8FYBSkyDT8.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU77yjUGK4NWghxRLJ2j5pNXxaFeipe77ol8ii5iFggA&s=10", Gasparzinho e Wendy (1998)
-https://dn721802.ca.archive.org/0/items/gasparzinhoewendyherbertrichers/Gasparzinho%20e%20Wendy%20-%201998%20-%20Tri%20%C3%81udio%20DVDRip%20576p-RMZ-Leonardo%20Nunes.ia.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCFKMwYzRRlmKxeBDQIwwl3-mQ6Ja6dRmEASY1RA0Xw&s", GiraTurma Rá-Tim-Bum: 10 Anos (2009)
-https://dn710100.ca.archive.org/0/items/dvd-tv-ra-tim-bum-10-anos/TV_R%C3%A1_Tim_Bum_10_Anos.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu57wUDU4gyNkPAQ5Eyk3KVesxNRsYvSutZp7kVbTSgg&s=10", Green Book: O Guia (2018)
 https://ia803107.us.archive.org/6/items/paixaoflix-cinema-490132/Green_Book_O_Guia.ia.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMijG-EjG5cbVviPKoE3WUAAffvpkrwS2MUI0UMSHBg&s=10", Heavy Metal: Universo em Fantasia (1981)
@@ -407,8 +356,6 @@ https://wscuh2cjilknbj3.cdn-novflix.com/storagePSN/FILMES/HOMEMCOMH.mp4
 https://ia600607.us.archive.org/8/items/homem-aranha-longe-de-casa_202605/Homem-Aranha%20Longe%20de%20Casa.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvgAw3acLP0oRgJbIEJBhUZtFBz9zdTPfjOGLY4NM8Zg&s=10", Justiça Sem Limites (2023)
 https://acesso.bilanucatuca.shop/t/1780613667.a5b7b645e1584b86767f11b141215ed6b4d103acb80596a1c6621383a9fa3274/u/PL.Vods-Fonte%40Full/Acao/Justi%C3%A7a%20Sem%20Limites.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://noveflixtv.com/wp-content/uploads/2025/05/lilo-1-200x300.jpg", Lilo & Stitch (2025)
-https://wscuh2cjilknbj3.cdn-novflix.com/storagePSN/FILMES/LILOSTITCH2025.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-v08V4OesXYrfEl2K3VJ2Hzx_qLT8CmW2_SZQAdtsQ&s=10", Loucademia de Polícia (1984)
 https://ia600106.us.archive.org/20/items/loucademiadepolicia/Loucademia%20de%20Pol%C3%ADcia.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9d6cQuFQFVu2ycF-3e63oQjzTg_sOiUr8-2WwzZi9ZQ&s=10", Loucademia de Polícia 2 (1985)
@@ -425,8 +372,6 @@ https://cbb87jx3ss9597i.cdn-novflix.com/storageSHOWS/TOWN25/LUDMILLA-TOWN25.mp4
 https://ia600601.us.archive.org/3/items/paixaoflix-movie-1304313/Maldi%C3%A7%C3%A3o%20da%20M%C3%BAmia.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYIEvjMqk4u2NV4nobVXq7sFQdoW6YMCzBS2SPH855eg&s=10", Metas de Relacionamento (2025)
 https://ia800805.us.archive.org/17/items/paixaoflix-cinema-1433842/Metas_de_Relacionamento.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIddmlIKanY5yQGTViW_mwVPwQahQB352S__OaHAuERw&s", Minhocas (2012)
-https://dn720305.ca.archive.org/0/items/minhocas_202301/MINHOCAS.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjZED0ZL27V_v8rLKamwKfPzUAA0BH8suXmkrkVKCJ8g&s=10", Mortal Kombat (2021)
 https://cdn99xn----booster.cineveo.lat/m/Mortal%20Kombat%20_2021_%20_tmdb_460465_a030274d.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwphZU91OMyaH0U4sbe4l21M4g4eQQwHNrukJshydD3A&s=10", Mudança do Barulho (1988)
@@ -457,8 +402,6 @@ https://dn720304.ca.archive.org/0/items/o-tigre-e-o-dragao-2000-blu-ray-1080p-du
 https://ia600404.us.archive.org/29/items/paixaoflix-movie-765684/Octonautas_e_o_C%C3%ADrculo_de_Fogo.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_53zrfQ2GlSL1mGrFnxhtrEh5j5f8xPaYj5KV35KcA&s=10", OPERAÇÃO VALKIRIA (2004)
 https://dn720305.ca.archive.org/0/items/operaca-o-valkiria-dublado-2004-dvdrip-guerra-movie/OPERA%C3%87%C3%83O%20VALKIRIA%20%28Dublado%20-%202004%29%20DVDRip.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVvLEe5CwrOcvfP7BXoGSAK27sBHdwpDOIU6VudVclg&s=10", Os Caras Malvados 2 (2025)
-https://ia801308.us.archive.org/13/items/os-caras-malvados-2-infantil-paixaoflix/Os%20Caras%20Malvados%20-%202.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOokWfIs_SSpDVEIPmILtJLdpkWARKUsqxpvKfRrtXBA&s=10", Os Goonies (1985)
 https://ia801908.us.archive.org/35/items/goonies_202605/Goonies.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://m.media-amazon.com/images/M/MV5BODIyNzg4ODg2OF5BMl5BanBnXkFtZTgwNTM0MzA2MDE@._V1_FMjpg_UX1000_.jpg", Os Meninos Super Poderosos (2016)
@@ -467,8 +410,6 @@ https://ia600506.us.archive.org/4/items/youtube-Rz_u_cL-M0Y/Rz_u_cL-M0Y.mp4
 https://ia800404.us.archive.org/26/items/paixaoflix-cinema-1014505/OVERLORD_O_Reino_Sagrado_2024.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://noveflixtv.com/wp-content/uploads/2025/07/620FhRxTk7e9GBXwtYv8Wk3DRJf-200x300.jpg", Perdido na Montanha (2025)
 https://wscuh2cjilknbj3.cdn-novflix.com/storagePSN/FILMES/PERDINONAMONTANHA.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW3dmprEln_2Eyk4n0rWX-CFnftYOBY7uKmytFlthViQ&s=10", Pinóquio (2026)
-https://ia800104.us.archive.org/28/items/paixaoflix-cinema-1248723/Pin%C3%B3quio_2026.ia.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_783796-MLB42295101284_062020-O.webp", Pr. Marco Antônio Peixoto (2009)
 https://ia801007.us.archive.org/0/items/dvd-transformando-fraqueza-em-forca/Transformando%20Fraqueza%20em%20For%C3%A7a.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3446lId3QPINVqIhbJC5UCIWo070DLHzLhsCdwjKhIFhRrOw3PHcJH_825PFh4WRpUv-nXJAQQIQZAZfXKz-CLPf1HsIJG6NV4T14Oh0eg&s=10", QUASE DEUSES (2004)
@@ -489,10 +430,6 @@ https://ia600103.us.archive.org/30/items/paixaoflix-cinema-9731/SextaFeira_13__P
 https://ia803201.us.archive.org/30/items/paixaoflix-cinema-10225/SextaFeira_13__Parte_6_Jason_Vive.ia.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3usfEF6mexF4rqY5q3BmES_7g2pyNGgC7PHoqmjRIjw&s=10", Sexta-Feira 13 - Parte IV: O Capítulo Final (1984)
 https://ia600600.us.archive.org/33/items/paixaoflix-cinema-9730/SextaFeira_13__Parte_IV_O_Cap%C3%ADtulo_Final.ia.mp4?cnt=0
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZz8oQ8A7paZfnvNBPxqlNi70mIwx8ofgwLH2cBr9ig&s=10", Smurfs (2025)
-https://ia902808.us.archive.org/13/items/paixaoflix-cinema-936108/Smurfs_2025.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4R7kwNMcSLLa-metoKMPZJTVXblJCUOfgU_8L41ysZQ&s=10", Super Xuxa Contra Baixo Astral (1988)
-https://ia600706.us.archive.org/19/items/superxuxa-canalbrasil-2026/Canal%20Brasil_2026-04-01_14-42-41.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQsCuHVC9bzre0c9ex5HfRXV3Rd6dzy7rc7pQQT4geUQ&s=10", Tango & Cash: Os Vingadores (1989)
 https://dn710203.ca.archive.org/0/items/tango-e-cash-os-vingadores-1989_202406/Tango%20E%20Cash%20-%20Os%20Vingadores%20%281989%29.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5VdZ3X7BQptuEEmyQBH7NQgBqQnv0xnrVPu4G2gk9w&s", Tintin e o Lago dos Tubarões (1972)
@@ -501,8 +438,6 @@ https://dn721903.ca.archive.org/0/items/tintin-e-o-lago-dos-tubaroes-1972-dublad
 https://cbb87jx3ss9597i.cdn-novflix.com/storageSHOWS/SHOWS/SHAKIRA-RIO.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jiSJrMTmYHwWWJ1e7Z5uv9W28TFSgBk0b8BJQSFcew&s=10", Túmulo Dos Vagalumes (1988)
 https://dn721601.ca.archive.org/0/items/o-tumulo-dos-vagalumes-1988-dublado/O%20T%C3%BAmulo%20dos%20Vagalumes%20(1988)%20-%20Dublado.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriKXKXf7TfvtuRUYGTvuBHCmtjzO-npMrAKAuM3EW3A&s=10", Turma da Mônica: Na Terra do Arco-Íris (1975)
-https://ia800606.us.archive.org/25/items/monica_arcoiris_1975/monica_arcoiris_1975_01.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSchycZY02R660Eez2hH8ScLSv93fhtJlewnRUs1Ncig&s=10", Um Dia a Casa Cai (1986)
 https://dn710004.ca.archive.org/0/items/um-dia-a-casa-cai-1986-720p-dublado/Um%20Dia%20a%20Casa%20Cai%20%281986%29%20720p%20Dublado.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPgU4bU68lDR0SheXpfFvKJJp-5iAo_5C-fz8d8m8Tbw&s=10", Um Sonho de Liberdade (1994)
@@ -511,14 +446,8 @@ https://ia802803.us.archive.org/23/items/aula-cozinha-natural/Aula%20cozinha%20N
 https://ia801609.us.archive.org/1/items/rio-2096-a-story-of-love-and-fury/Uma.Historia.de.Amor.e.Furia.2013.DVDR.R4.NTSC.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://noveflixtv.com/wp-content/uploads/2025/07/7QWMSU9S30Y0I9eaRYkMUx9a0es-200x300.jpg", Uma Mulher Comum (2025)
 https://wscuh2cjilknbj3.cdn-novflix.com/storagePSN/FILMES/UMAMULHERCOMUM.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzv_iqrkH-kSftTLg9cB2XdqI2xb6RV9Mf9OhsUpuerA&s=10", Ursinho da Pesada (2008)
-https://ia801906.us.archive.org/19/items/dvd-ursinho-da-pesada/URSINHOS.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vWwZs_CmDflkrqK1JGbCnpNU2G-Siv6FnqBWylcBlw&s=10", Venom: A Última Rodada (2024)
 https://ia601506.us.archive.org/25/items/venom.-a.-ultima.-rodada.-2024.1080/Venom.A.Ultima.Rodada.2024.1080.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJ6G4l8GEvoTXOsw1ntEFv15gTB4O05hJRLQYeuItvA&s", Willa e os Animais (2018)
-https://dn721600.ca.archive.org/0/items/dvd-a-melhor-festa-de-todas/A_MELHOR_FESTA_DE_TODAS.mp4
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmOYcDHl6YzAnInPGSWvbGVahFlvvaZpF8qIJs7EL4Q&s=10", Xuxinha e Guto (2009)
-https://dn721909.ca.archive.org/0/items/xuxinha-e-guto-dvd/XUXINHA_E_GUTO.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuEJuAE_kfLpXYO0DpbKwSAqOz0feqEcIr3uCPMLj6w&s=10", Desafiando Gigantes (2006)
 https://ia801609.us.archive.org/5/items/paixaoflix-cinema-18925/Desafiando_Gigantes_2006.ia.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKa69vLA8w7IHC2d1D68xSxKlpmVAAgcnDAubUdUU8DA&s=10", Julgamento em Nuremberg (1961)
@@ -535,81 +464,3 @@ https://ia902806.us.archive.org/32/items/paixaoflix-cinema-805/O_Beb%C3%AA_de_Ro
 https://ia902903.us.archive.org/31/items/paixaoflix-cinema-591/O_C%C3%B3digo_Da_Vinci_2006.ia.mp4?cnt=0
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLShBpaKW5-G0v78dZx-oefh7Q_AZ3j-TaWQQMXwZ_A&s", O Pacto dos Lobos (2001)
 https://ia802800.us.archive.org/1/items/paixaoflix-cinema-6312/O_Pacto_dos_Lobos_2001.mp4
- #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/vvlbdBCuLt7nkQG7anNE6xHNbAO.jpg", Vida de Inseto (1998)
-http://redeflixapi.store/filme/9487
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/xWxrRsgHxmdPKtZg6f5Mftvvjw9.jpg", Robin Hood (1973)
-http://redeflixapi.store/filme/11886
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/6Ucmnt3nUaYY5rLfMjntK5WObNA.jpg", Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy (2026)
-http://redeflixapi.store/filme/1698575
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/dUwelWpdV3kOVoxCiRM0xUuZBYt.jpg", Tempestade na Vila Sésamo (2026)
-http://redeflixapi.store/filme/1740877
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/jUwFOvlTyLQzagVcOs1EonMYCwj.jpg", Authentic Games: No Império Desconectado (2026)
-http://redeflixapi.store/filme/1662168
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/xXJjuZwSI6O6r4MnnCZuSmEJfiy.jpg", Espermagedom (2024)
-http://redeflixapi.store/filme/1064307
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/5vZaN787XwW5l49eJ8rPz5qvyhf.jpg", O Sonho de Clarice (2023)
-http://redeflixapi.store/filme/1213049
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/j2svEVdHI5QfmeXAbuPye5l6y0I.jpg", A Revolução dos Bichos (2026)
-http://redeflixapi.store/filme/539745
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/1f2T6PDGXcsCfkeizkwS4O1dyQD.jpg", O Lorax (1972)
-http://redeflixapi.store/filme/38060
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/pm4eFHE5hL0YennQkmQftofTEmd.jpg", Bambi, Uma Aventura na Floresta (2024)
-http://redeflixapi.store/filme/1094473
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/eAwtbyR9wIaYoEUozTQjlu7KhgN.jpg", Descendentes: País das Maravilhas Malvado (2026)
-http://redeflixapi.store/filme/1318621
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/tPDgn32iTONXzHo3a4Z0KAMOJfD.jpg", Moana (2026)
-http://redeflixapi.store/filme/1108427
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/hTowtXrkCY7FJyoj4p91JckrJSE.jpg", Minions & Monstros (2026)
-http://redeflixapi.store/filme/1315772
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/d7BsXPE4vv6UFaD52J4rlQq5pWU.jpg", Eu sou Frankelda (2025)
-http://redeflixapi.store/filme/1119090
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/s38IebV8UxxaIHUCQUrL93qAl2C.jpg", Capitão Astúcia (2025)
-http://redeflixapi.store/filme/966149
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/jrbBVDmC4lTquL5NvNbom9RAzbx.jpg", Self (2024)
-http://redeflixapi.store/filme/1221396
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/714PRioheNIkcVCVvhDr03hpMCx.jpg", Teca e Tuti: Uma Noite na Biblioteca (2024)
-http://redeflixapi.store/filme/1150684
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/1TzKDW1Sxm1EiUu0QUQfx8oZiJ5.jpg", Mestres do Universo (2024)
-http://redeflixapi.store/filme/454639
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/p7tPn2knHDMTlgr63L5bdPBPZf7.jpg", O Cão e a Raposa 2 (2006)
-http://redeflixapi.store/filme/9948
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/efIxA3aIzYaKamMUbIC4I8hJTAL.jpg", O Cão e a Raposa (1981)
-http://redeflixapi.store/filme/10948
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/sX563ahs4W9udg8J1nLeYk89yB9.jpg", O Grande Urso (2011)
-http://redeflixapi.store/filme/67762
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/sBDDdvvuUcuC6ccI2ePOv3I3w1g.jpg", Sailor Moon R: A Promessa da Rosa (1993)
-http://redeflixapi.store/filme/37100
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/or8efRgDO5SRNCcpi3DYESF0D0K.jpg", Rastro do Ouro (2026)
-http://redeflixapi.store/filme/1669929
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/fSGMCWbFXzfWHLnoaJBnm74viGo.jpg", A Pequena Amélie (2025)
-http://redeflixapi.store/filme/682012
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/yLRsOZZvY58TxzR84jxFMJcGVen.jpg", A Loja Mágica de Brinquedos (2007)
-http://redeflixapi.store/filme/2284
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/3ZADXxqb4qMEZ1MAanujQ4GZzTf.jpg", O Caldeirão Mágico (1985)
-http://redeflixapi.store/filme/10957
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/7FBnCkYzHlVHEtuzTEiGgFhs8EQ.jpg", Como Mágica (2026)
-http://redeflixapi.store/filme/1007757
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/m32peFDjg0GLBYq6n88hX9EKa6Q.jpg", Caçadores de Dragões (2008)
-http://redeflixapi.store/filme/10800
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/c55sXCaQBj3vuHqZe62tv90xCQS.jpg", Demon Slayer: Kimetsu no Yaiba Castelo Infinito (2025)
-http://redeflixapi.store/filme/1311031
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/o0d8qJL8anmGG14UfjBC7HHATJK.jpg", As Aventuras dos Chipmunks (1987)
-http://redeflixapi.store/filme/21793
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/uvXHs10CYWRyerGSX2WuN2dzxse.jpg", Charlie: O Super Cão (2025)
-http://redeflixapi.store/filme/1276521
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg", Super Mario Galaxy: O Filme (2026)
-http://redeflixapi.store/filme/1226863
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/8lQ1lcbVidoK2PsuPMlwA73vV4A.jpg", Dragon Ball Z: O Plano Para Erradicar os Saiyajins (2010)
-http://redeflixapi.store/filme/211223
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/agkPfqKgwA8M3OSkrkTGk9zzm72.jpg", Arco (2025)
-http://redeflixapi.store/filme/804370
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/sXrSqhLKo25eyMHka6JKe3YO9Ss.jpg", Jonny Quest e a Jornada do Ouro (1993)
-http://redeflixapi.store/filme/211223
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/27Ko4be7CeFmq2hVN7lp7TWG1sd.jpg", Zootopia: Essa Cidade é o Bicho (2016)
-http://redeflixapi.store/filme/269149
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/fOCTW3D6RywUzoxpvxF7G6YM5bT.jpg", Zootopia 2 (2025)
-http://redeflixapi.store/filme/1084242
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/xSmtEs771Czn1cU3PwgYqDuwCgA.jpg", Steven Universo: O Filme (2019)
-http://redeflixapi.store/filme/537061
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/kFBWjlAhdGgVFYXFN6hI5Pflezy.jpg", O Diário de Pilar na Amazônia (2026)
-http://redeflixapi.store/filme/1135423
