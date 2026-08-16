@@ -1,130 +1,48 @@
+
 EXTM3U
-# ==========================================
-# 🇭🇺 HUNGRIA: A ESCOLHA DE UM SONHO (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg", [FILME] Hungria: A Escolha de um Sonho (2026)
-#SINOPSE: Baseado na história do rapper Hungria Hip Hop, o filme acompanha a juventude de Gustavo da Hungria Neves, criado na periferia de Brasília, que decide seguir o caminho da música mesmo diante de obstáculos e desconfiança.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1658572
-# ==========================================
-# 🐉 CORAÇÃO DE DRAGÃO 2 - UM NOVO COMEÇO (2000)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2iEvG9Y6Ug9W5QX0c36R91A9pGv.jpg", [FILME] Coração de Dragão 2 - Um Novo Começo (2000)
-#SINOPSE: Sequência do clássico Coração de Dragão, que acompanha as aventuras de um jovem dragão e seu amigo humano em uma nova jornada.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/10473
-# ==========================================
-# 🐉 CORAÇÃO DE DRAGÃO (1996)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1qQhYzA0PMW0bI1uTMGNXr8C9PT.jpg", [FILME] Coração de Dragão (1996)
-#SINOPSE: No século X, durante uma revolta de camponeses, o rei, um terrível tirano, morre nos combates. Seu filho, um jovem príncipe, presencia tudo. O último dragão e um cavaleiro desiludido que mata dragões devem cooperar para deter um rei malvado, a quem foi dada uma imortalidade parcial.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/8840
-# ==========================================
-# 🤡 PALHAÇOS ASSASSINOS DO ESPAÇO SIDERAL (1988)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rBUrl2dBPNPYI5rKcfGkRXulX1n.jpg", [FILME] Palhaços Assassinos do Espaço Sideral (1988)
-#SINOPSE: Quando um grupo de palhaços alienígenas pousa com uma nave em formato de tenda de circo, os policiais da região não acreditam. Mas, logo, não resta dúvidas: eles vieram para invadir a Terra.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/16296
-# ==========================================
-# 🕵️ OPERAÇÃO: RAQQA (2024)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/22q38ZRTvjry2XjMBUBYXL6ZkSc.jpg", [FILME] Operação: Raqqa (2024)
-#SINOPSE: Um espião internacional trabalhando para os russos e uma espiã a serviço da Europol se encontram nas ruas de Raqqa, uma cidade dominada por bombardeios e violência, durante a caça a um dos líderes do ISIS mais procurados.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1239481
-# ==========================================
-# 🎀 A HEROÍNA DA FITA (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/sLjm1n06TuQnwT0XJp9YcvIMq44.jpg", [FILME] A Heroína da Fita (2026)
-#SINOPSE: Sapphire é a princesa de um reino que não existe mais. Tendo perdido tudo em sua terra natal, Silverland, devido à calamidade conhecida como "Nergal", ela desperta seus poderes como a Princesa Cavaleira e decide lutar para salvar seu novo lar.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1679730
-# ==========================================
-# 🏠 A ÚLTIMA CASA (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hSkzGimU25ncdKuMW1s1h4QsCbF.jpg", [FILME] A Última Casa (2026)
-#SINOPSE: Uma família formada por Ann (Greta Lee) e Jason (Wagner Moura) e seus dois filhos fica, de maneira inesperada, confinada dentro da própria casa. Eles precisam se unir para sobreviver à escassez de recursos e à força sombria que os mantém presos.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1284041
-# ==========================================
-# 🦅 JOVENS ÁGUIAS (2022)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pZQq1WmFzvP3DGzG1fWUeSmOSvJ.jpg", [FILME] Jovens Águias (2022)
-#SINOPSE: A série acompanha um grupo de jovens pilotos que sonham em se tornar os melhores aviadores, enquanto enfrentam desafios e superam seus limites nos céus.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/999128
-# ==========================================
-# 🔒 VIDA PRIVADA (2025)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hMObSFdPA5Y9gDysis7X2JVxIA5.jpg", [FILME] Vida Privada (2025)
-#SINOPSE: Uma jovem americana que está prestes a se casar com um influente príncipe da dinastia real mais poderosa da Ásia vê sua vida virar de cabeça para baixo quando é acusada de um crime que não cometeu.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1290432
-# ==========================================
-# 💥 LAPUA 1976 (2023)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/s1cQn3n7aPGsWbuoBlBfCxI772Z.jpg", [FILME] Lapua 1976 (2023)
-#SINOPSE: O filme retrata o tiroteio em massa ocorrido em Lapua, na Finlândia, em 1976, onde um homem armado matou várias pessoas, deixando uma marca profunda na história do país.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1068427
-#===========================================
-# ☢️ CÉSIO 137 - O PESADELO DE GOIÂNIA (1990)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5fKyXo3JJpiqNogkxFMzXwHXc3f.jpg", [FILME] Césio 137 - O Pesadelo de Goiânia (1990)
-#SINOPSE: O filme retrata o trágico acidente radiológico ocorrido em Goiânia em 1987, quando um aparelho de radioterapia abandonado foi encontrado e violado, espalhando material radioativo pela cidade e causando mortes e contaminação em centenas de pessoas.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/250231
-# ==========================================
-# 🌾 WINTERSET (2025)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7FJg0lEtMlpEXkjymbVVvvWjwEk.jpg", [FILME] Winterset (2025)
-#SINOPSE: Na cidade de Winterset, Iowa, três fazendeiros pobres recrutam um "City Slicker" para ajudá-los a realizar um roubo, furtando sacos de dinheiro de um rico proprietário de um rancho. O plano dá errado e um homem cruel, dono do dinheiro, surge para recuperá-lo.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1230052
-# ==========================================
-# 💻 WARD RIVER (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg", [FILME] Wardriver (2026)
-#SINOPSE: A história de um ladrão brilhante e experiente em tecnologia que é forçado a invadir a conta bancária de uma jovem aparentemente rica e realizar o roubo de quase um milhão de dólares.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/938150
-# ==========================================
-# ❤️ MEU MELHOR AMIGO, SUA NAMORADA E EU (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg", [FILME] Meu Melhor Amigo, sua Namorada e Eu (2026)
-#SINOPSE: Olli e Matze são melhores amigos e fazem tudo juntos, incluindo os planos de viajar pelo mundo. Até Matze começar a namorar Rebecca e virar tudo de cabeça para baixo.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1589248
-# ==========================================
-# 🦈 A MALDIÇÃO DO TUBARÃO (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg", [FILME] A Maldição do Tubarão (2026)
-#SINOPSE: Uma equipe de biólogos marinhos parte para uma expedição na América Central para investigar um comportamento anormal dos tubarões, descobrindo uma verdade aterrorizante.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1741207
-# ==========================================
-# 🔪 A HORA DO PESADELO 7: O NOVO PESADELO - O RETORNO DE FREDDY KRUEGER (1994)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/j2QUKStp4gK4jJ5JkDPkJlpoRyk.jpg", [FILME] A Hora do Pesadelo 7: O Novo Pesadelo - O Retorno de Freddy Krueger (1994)
-#SINOPSE: O assassino Freddy Krueger consegue romper a barreira entre ficção e realidade e passa a atacar, no mundo real, a equipe que produziu o primeiro filme da série.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/11596
-# ==========================================
-# 🎵 NANDO ENTRE DOIS MUNDOS: UM FILME SINTONIA (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg", [FILME] Nando Entre Dois Mundos: Um Filme Sintonia (2026)
-#SINOPSE: Dividido entre a vida em família e suas obrigações com o mundo do crime, Nando precisa fazer uma escolha impossível.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1487864
-# ==========================================
-# 🇺🇸 GEORGE WASHINGTON (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xgi2dObKLcSeUeFIT2Gw3U6Ed9d.jpg", [FILME] George Washington (2026)
-#SINOPSE: Uma série documental sobre a vida e a carreira do primeiro presidente dos Estados Unidos, George Washington.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1308767
-# ==========================================
-# 🏔️ A VIAGEM DE HEIDI E COKEMAN (2021)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hyxaVyx7wEqChZoAO7vpvmMnDb1.jpg", [FILME] A Viagem de Heidi e Cokeman (2021)
-#SINOPSE: As férias de Heidi na cabana de seu avô são interrompidas por um imprevisto. Enquanto Cokeman precisa lidar com os demônios do passado, os dois acabam se envolvendo em uma jornada inesperada.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/659063
-# ==========================================
-# 🏔️ HEIDI (1937)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rIfA5X4pYJOHyFPZFqWLOu7yfiZ.jpg", [FILME] Heidi (1937)
-#SINOPSE: A clássica história da órfã Heidi, que vai viver com o avô nas montanhas suíças.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/28345
-# ==========================================
-# 🤼 BOM GAROTO / HEEL (2026)
-# ==========================================
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hXVVZbIRikyXGhnAcIjXWvYZIOI.jpg", [FILME] Bom Garoto / Heel (2026)
-#SINOPSE: A história de um lutador de wrestling que tenta equilibrar sua carreira no ringue com a vida pessoal, enquanto enfrenta desafios e rivalidades.
-#EPISODIO: S01E01|https://redeflixapi.store/filme/1381027
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5fKyXo3JJpiqNogkxFMzXwHXc3f.jpg", Césio 137 - O Pesadelo de Goiânia (1990)
+https://redeflixapi.store/filme/250231
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7FJg0lEtMlpEXkjymbVVvvWjwEk.jpg", Winterset (2025)
+https://redeflixapi.store/filme/1230052
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg", Wardriver (2026)
+https://redeflixapi.store/filme/938150
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg", Meu Melhor Amigo, sua Namorada e Eu (2026)
+https://redeflixapi.store/filme/1589248
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg", A Maldição do Tubarão (2026)
+https://redeflixapi.store/filme/1741207
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/j2QUKStp4gK4jJ5JkDPkJlpoRyk.jpg", A Hora do Pesadelo 7 - O Novo Pesadelo - O Retorno de Freddy Krueger (1994)
+https://redeflixapi.store/filme/11596
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg", Nando Entre Dois Mundos - Um Filme Sintonia (2026)
+https://redeflixapi.store/filme/1487864
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xgi2dObKLcSeUeFIT2Gw3U6Ed9d.jpg", George Washington (2026)
+https://redeflixapi.store/filme/1308767
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hyxaVyx7wEqChZoAO7vpvmMnDb1.jpg", A Viagem de Heidi e Cokeman (2021)
+https://redeflixapi.store/filme/659063
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rIfA5X4pYJOHyFPZFqWLOu7yfiZ.jpg", Heidi (1937)
+https://redeflixapi.store/filme/28345
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hXVVZbIRikyXGhnAcIjXWvYZIOI.jpg", Bom Garoto / Heel (2026)
+https://redeflixapi.store/filme/1381027
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg", Hungria - A Escolha de um Sonho (2026)
+https://redeflixapi.store/filme/1658572
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2iEvG9Y6Ug9W5QX0c36R91A9pGv.jpg", Coração de Dragão 2 - Um Novo Começo (2000)
+https://redeflixapi.store/filme/10473
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1qQhYzA0PMW0bI1uTMGNXr8C9PT.jpg", Coração de Dragão (1996)
+https://redeflixapi.store/filme/8840
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rBUrl2dBPNPYI5rKcfGkRXulX1n.jpg", Palhaços Assassinos do Espaço Sideral (1988)
+https://redeflixapi.store/filme/16296
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/22q38ZRTvjry2XjMBUBYXL6ZkSc.jpg", Operação - Raqqa (2024)
+https://redeflixapi.store/filme/1239481
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/sLjm1n06TuQnwT0XJp9YcvIMq44.jpg", A Heroína da Fita (2026)
+https://redeflixapi.store/filme/1679730
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hSkzGimU25ncdKuMW1s1h4QsCbF.jpg", A Última Casa (2026)
+https://redeflixapi.store/filme/1284041
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pZQq1WmFzvP3DGzG1fWUeSmOSvJ.jpg", Jovens Águias (2022)
+https://redeflixapi.store/filme/999128
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/hMObSFdPA5Y9gDysis7X2JVxIA5.jpg", Vida Privada (2025)
+https://redeflixapi.store/filme/1290432
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/s1cQn3n7aPGsWbuoBlBfCxI772Z.jpg", Lapua 1976 (2023)
+https://redeflixapi.store/filme/1068427
+
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/original/hLiI13YstciHqiuHCkD786wpIYn.jpg", A Origem dos Guardiões (2002)
 https://23rzv4udpdbv8t6.cdn-novflix.com/storageflix/F/a-origem-dos-guardioes.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w342/e7ofkr5drqphDavMOC1RuOgKqIJ.jpg", Elize: Sombras de uma Mulher (2026)
