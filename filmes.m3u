@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tnIl6PPOVUS2uPTWpZYZ09UgXhp.jpg",O Silêncio na Noite (2023)
+http://redeflixapi.store/filme/1066895
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg",Amor em Soweto (2024)
+http://redeflixapi.store/filme/1237835
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/HV5hFJsqogckCfHiAwgKpP9R1j.jpg",1992 (2024)
+http://redeflixapi.store/filme/413846
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg",Máquina Mortífera 2 (1989)
+http://redeflixapi.store/filme/942
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg",Ficção Americana (2023)
+http://redeflixapi.store/filme/1056360
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/yMBt2IsCoPfOheOTbQH9UtRdXlg.jpg",O Mago das Mentiras (2017)
+http://redeflixapi.store/filme/363992
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zLLC7AldfrYUot7lsw3ePFSs87e.jpg",O Máskara (1994)
+http://redeflixapi.store/filme/854
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/dYiQoSOtnKqdlpIqNGr3JS7xKBx.jpg",O Filho do Máskara (2005)
+http://redeflixapi.store/filme/10214
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg",Fique Rico ou Morra Tentando (2005)
+http://redeflixapi.store/filme/10060
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3kYOnF3HtMvkWvxz17omjjTnzC4.jpg",Gladiadores (2025)
+http://redeflixapi.store/filme/1499984
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/44NpOB3zKwSKzu6mEDQY235rRxP.jpg",A Lagoa Azul (1980)
 http://redeflixapi.store/filme/5689
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w342/f9Yp41eDDrx4HxFKW8vt9xKPobB.jpg",Pedro Coelho (2018)
