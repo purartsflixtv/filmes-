@@ -1,4 +1,39 @@
+
 #EXTM3U
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/8XpcQ5DmJ2YrhV0I9HfGcOlEahT.jpg",Eu Receberia as Piores Notícias dos Seus Lindos Lábios (2011)
+https://redeflixapi.store/filme/125935
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6VqXPjpVgOyGY5OZr1hWGiIxvHT.jpg",Gilberto Gil: Um Deus em seu Jardim (2021)
+https://redeflixapi.store/filme/865125
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/9kEHJNruZOD3qvsrt9N29zOjNDQ.jpg",Boa Sorte (2014)
+https://redeflixapi.store/filme/248543
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/f7fQgtsTYbViAeo9C80PSL3zLvx.jpg",Tudo Que Deus Criou (2015)
+https://redeflixapi.store/filme/319353
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tBs97JX3B2yQVcDEgsEuEFXFCpB.jpg",Amores Possíveis (2001)
+https://redeflixapi.store/filme/123833
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xWDC44rdUfeMscDtpFGoylVWM55.jpg",Eu Sou Brasileiro (2019)
+https://redeflixapi.store/filme/618087
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5nLdwZTklH9aFYpPw819MPZ5M49.jpg",Os Normais 2 - A Noite Mais Maluca de Todas (2009)
+https://redeflixapi.store/filme/34277
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rUVrAAXXjGhYflRUtbyqgREABKD.jpg",Piedade (2019)
+https://redeflixapi.store/filme/440844
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7RqkEVBtg1p5YTJKHiY0P5dVVfC.jpg",Achados e Perdidos (2007)
+https://redeflixapi.store/filme/81075
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pLtU6oXgLmw3MweUMIALDlJYYDk.jpg",Que Horas Ela Volta? (2015)
+https://redeflixapi.store/filme/310569
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/ftsxlgrPlnS05vRFRX9mVVkkSeM.jpg",Permanência (2014)
+https://redeflixapi.store/filme/299071
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tKPqAg486tpjt0FlPoDRDzo85Tn.jpg",Cinema Novo (2016)
+https://redeflixapi.store/filme/398488
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3nHh4tR52CmcqPc50F8Ih8fOpu4.jpg",Um Filme de Cinema (2023)
+https://redeflixapi.store/filme/453035
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/uK28zWKVhLuHgbn7blASTLyCjNl.jpg",Brasília (2011)
+https://redeflixapi.store/filme/750501
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/q2hKSdxwTlvUQHKDQQY3zdbeSDt.jpg",Cabra-Cega (2004)
+https://redeflixapi.store/filme/199889
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6HyS7NOxkJKX9vSmp7wHjBX9EFw.jpg",Amigas de Sorte (2021)
+https://redeflixapi.store/filme/830663
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/z5YT7IXrikXxA7pq97r7w3FethX.jpg",Didi, o Cupido Trapalhão (2003)
+https://redeflixapi.store/filme/243664
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iKeGoTzLXp2Q2x5aCHQnxMhEWdO.jpg",Titanic (1997)
 https://redeflixapi.store/filme/597
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/t44iYYVrx5kPfltVZldJS3yWcAe.jpg",Inabitáveis (2020)
