@@ -1,5 +1,24 @@
-
-EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/44NpOB3zKwSKzu6mEDQY235rRxP.jpg",A Lagoa Azul (1980)
+http://redeflixapi.store/filme/5689
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w342/f9Yp41eDDrx4HxFKW8vt9xKPobB.jpg",Pedro Coelho (2018)
+https://ia801400.us.archive.org/27/items/PaixaoFlix-Pedro-Coelho-2018/Pedro%20Coelho%202018.mp4?cnt=0
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w342/pxdSJCpqMOp3gakScrzHgGDEvVr.jpg",Pedro Coelho 2 – O Fugitivo (2021)
+https://ia600503.us.archive.org/11/items/PaixaoFlix-Pedro-Coelho-2-O-Fugitivo-2021/Pedro%20Coelho%202%20%E2%80%93%20O%20Fugitivo%202021.mp4
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w342/9MBZe0Uk2TXLjgsgtG6HPGmeKLK.jpg",A Meia-Irmã Feia (2025)
+https://cdn99xn----booster.primevicioapi.shop/m/1284120/A_Meia-Irm___Feia_Dublado_HD.mp4
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fKRLcJeGrE83aiRVl4PKNCtGgVU.jpg",O Banqueiro da Resistência (2018)
+http://redeflixapi.store/filme/497916
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/sVouzUFigdRg7ZWHTvJOXIBqQ3V.jpg",O Bom Filho à Casa Torna (2008)
+http://redeflixapi.store/filme/13490
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkJh0_WY7SeTm3zW7V-KyJfOl4MxkjxXk4-yp9GVObQ&s=10",Ah a Amizade (2026)
+https://ia801902.us.archive.org/30/items/PaixaoFlix-Ah-a-Amizade-2026/Ah%20a%20Amizade%202026%205%201.mp4
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/aMBJOw4TxBJCrqPqEhGbmpyMgzG.jpg",A Greve das Camareiras (2024)
+http://redeflixapi.store/filme/978090
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/rGcu4OVFf3r1oXwlafar7eyG9Tu.jpg",Os Donos da Rua (1991)
+http://redeflixapi.store/filme/650
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/49b7CTeJqugnpBboT6D5xGy3h4H.jpg",O Refúgio (2026)
+http://redeflixapi.store/filme/799882
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5fKyXo3JJpiqNogkxFMzXwHXc3f.jpg", Césio 137 - O Pesadelo de Goiânia (1990)
 https://redeflixapi.store/filme/250231
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7FJg0lEtMlpEXkjymbVVvvWjwEk.jpg", Winterset (2025)
