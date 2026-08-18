@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iKeGoTzLXp2Q2x5aCHQnxMhEWdO.jpg",Titanic (1997)
+https://redeflixapi.store/filme/597
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/t44iYYVrx5kPfltVZldJS3yWcAe.jpg",Inabitáveis (2020)
+https://redeflixapi.store/filme/668044
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7NZAwKv6jGVLyMAkX7bhE5fPobE.jpg",Luccas e Gi em: Dinossauros (2024)
+https://redeflixapi.store/filme/1244009
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tn48eilAjKfGIZzUinEljgpsY1d.jpg",A Torre (2019)
+https://redeflixapi.store/filme/471283
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lS2Im9AJhdd9EIuVE8ZWOs4UfnA.jpg",Brasil Visto do Alto (2023)
+https://redeflixapi.store/filme/1291397
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/73wB0Z8UlmVoOKbBZj5yhgsxK3U.jpg",Madame Satã (2002)
+https://redeflixapi.store/filme/46993
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/f16quEY99Fe9GCWkcXqFmZ0DgGq.jpg",Bello: O Rei do Futevôlei (2022)
+https://redeflixapi.store/filme/1018258
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zUDpcPO8CAECZhUuMxjQeTGSfYB.jpg",Amigos Sem Compromisso (2024)
+https://redeflixapi.store/filme/1324276
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3L4YF9CLtXunQgvvuUe4cuhNe4T.jpg",Vidente Por Acidente (2024)
+https://redeflixapi.store/filme/1239083
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/9dBnGtJ0geKUWlispCiGmQPHPM9.jpg",Entre Sombras (2018)
+https://redeflixapi.store/filme/417643
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tnIl6PPOVUS2uPTWpZYZ09UgXhp.jpg",O Silêncio na Noite (2023)
 http://redeflixapi.store/filme/1066895
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg",Amor em Soweto (2024)
