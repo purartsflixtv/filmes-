@@ -1,5 +1,24 @@
-
 #EXTM3U
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fX1n097j6l7Y47jtph8Z4SwJkbR.jpg", À Prova de Fogo (2008)
+https://redeflixapi.store/filme/14438
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lHRid7SIsqHAG8hlxbg2u5E9ouN.jpg", Operação: Arma Secreta (2023)
+https://redeflixapi.store/filme/1149381
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/6ocKTKGb3a36o0CqEj0Xzefhmjm.jpg", Operação Condor: Um Kickboxer Muito Louco (1991)
+https://redeflixapi.store/filme/10975
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/wCf4uN3P6udlgAsNLCAf0605SEQ.jpg", S.W.A.T.: Operação Escorpião (2017)
+https://redeflixapi.store/filme/461053
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/7I9P77PCKCQgAxbNK3weNAin318.jpg", Operação Narco (2021)
+https://redeflixapi.store/filme/706972
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/tobYv4VtrbTO6BQ8a1MU88ndUuT.jpg", Operação Zodíaco (2012)
+https://redeflixapi.store/filme/98567
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/3upFUOD8JH6AMIoBaOKd0BO08Ot.jpg", Operação Divórcio (2021)
+https://redeflixapi.store/filme/755437
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/5sY6GH2DACNPfihqrJuUBAZVEv1.jpg", Mamãe: Operação Balada (2014)
+https://redeflixapi.store/filme/252680
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/xV4w6hVawKdOcuS23nmqT1lDL1p.jpg", Operação Esperança: As Crianças perdidas na Amazônia (2024)
+https://redeflixapi.store/filme/1280368
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/jnJRQ8iSCncMe38339H9BvukkiX.jpg", Operação Portugal (2021)
+https://redeflixapi.store/filme/642684
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/eLPa8D0Xe0IOaO0MRZc1SeU0KNJ.jpg",Salomão (2013)
 https://redeflixapi.store/filme/533853
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fSCso8sdVvBsyNetxkpE563bH2P.jpg",O Nó do Diabo (2018)
