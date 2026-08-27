@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/kwktJBPNMyYuMvR6x2bH6bXUFuh.jpg", Dona Flor e Seus Dois Maridos (1976)
+https://redeflixapi.store/filme/42234
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/pj0Sl8OEtCpQlhoJsCHQb8PMMqh.jpg", Robin Hood, O Trapalhão da Floresta (1974)
+https://redeflixapi.store/filme/407528
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg", A Floresta do Escalpe (2021)
+https://redeflixapi.store/filme/753477
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/z7fp09XBMKdC9vby1fA69DbNhIU.jpg", Flores de Natal (2018)
+https://redeflixapi.store/filme/542602
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg", Caminhos da Floresta (2014)
+https://redeflixapi.store/filme/224141
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/59ZFASEFZWoB4QJQglVJeSwM57U.jpg", O Mistério da Floresta (2022)
+https://redeflixapi.store/filme/926967
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/40HH9nmPRkyWjWaoHgSZQNN6pFe.jpg", Florida Shark: Blood in the Water (2023)
+https://redeflixapi.store/filme/1159573
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/oGPNoTBCpkcMLD8JZkn8kFyhYX6.jpg", Amazônia - O Despertar da Florestania (2018)
+https://redeflixapi.store/filme/555796
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zv1NUGF2nv3smvfsLDIXEwstWpC.jpg", Flora e Ulysses (2021)
+https://redeflixapi.store/filme/621876
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/32VIPl1RG9BgJUuydK6qUdjFzCo.jpg", Uma Caminhada na Floresta (2015)
+https://redeflixapi.store/filme/232572
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/fX1n097j6l7Y47jtph8Z4SwJkbR.jpg", À Prova de Fogo (2008)
 https://redeflixapi.store/filme/14438
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lHRid7SIsqHAG8hlxbg2u5E9ouN.jpg", Operação: Arma Secreta (2023)
