@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/bA9eV51goZvcufsd9TBtGuDwORz.jpg", Carol (2015)
+https://mgeb.top/embed/258480
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/lwV8LxjFT6AdbUJxQrDIMZz5C8I.jpg", Duro de Matar: Um Bom Dia para Morrer (2013)
+https://mgeb.top/embed/47964
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/sMZbWKHRzWDjzUsSkfhCnLlJxMx.jpg", Lost in London (2017)
+https://mgeb.top/embed/435218
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/mVP13WG03XpZr3JNOBAEBSuWUl3.jpg", Invasão à Casa Branca (2013)
+https://mgeb.top/embed/117263
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/doNIj6jX27hhfcbD6GEb22ydLSF.jpg", Tá Chovendo Hambúrguer (2009)
 https://mgeb.top/embed/22794
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/bneO9Ar9ZgWm5kRbqjsuR2GuxMg.jpg", O Corajoso Ratinho Despereaux (2008)
